@@ -67,11 +67,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = ""
   [[menu.main]]
     weight = 4
-    identifier = "resume"
+    identifier = ""
     pre = ""
     post = ""
-    name = "Resume"
-    url = "/resume/"
+    name = ""
+    url = ""
     title = ""
 
 [params]
