@@ -163,7 +163,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Search config
   [params.search]
-    enable = true
+    enable = false
     # type of search engine ["lunr", "algolia"]
     type = "lunr"
     # max index length of the chunked content
@@ -197,7 +197,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Hello, I'm Gustavo"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "I"
+      subtitle = "Guiding you on the process of buyer or selling Real Estate by taking an "Education first" approach, Hablo Español"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
