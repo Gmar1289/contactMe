@@ -197,7 +197,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Hello, I'm Gustavo"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "I will help guide you on the process of buyer or selling Real Estate by taking an "Education first" approach, so that you can be aware of all your options. Hablo Español"
+      subtitle = "I"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
