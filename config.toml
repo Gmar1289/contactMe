@@ -292,7 +292,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Phone = "+1 (203) 589-1466"
     Email = "gustavo@kipropertygroup.com"
     RSS = false # 
-    Tiktok = "realestate.goose"
+    Tiktok = "@realestate.goose"
 
   #  Page global config
   [params.page]
